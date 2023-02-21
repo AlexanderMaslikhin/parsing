@@ -1,0 +1,662 @@
+[
+    {
+        "name": "Backend программист (Python)",
+        "link": "https://hh.ru/vacancy/77147428?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+        "salary": {
+            "from": 120000,
+            "currency": "руб."
+        },
+        "employer": "MANGO FZCO",
+        "place": "Москва"
+    },
+    {
+        "name": "Python Developer (проект \"Маркетинг \") Middle",
+        "link": "https://hh.ru/vacancy/76968960?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA"
+    },
+    {
+        "name": "Python Developer (проект \"Маркетинг БКП\") Middle",
+        "link": "https://hh.ru/vacancy/76978400?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA"
+    },
+    {
+        "name": "Python Developer (проект \"Маркетинг\") Senior",
+        "link": "https://hh.ru/vacancy/76976985?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA"
+    },
+    {
+        "name": "Full-stack developer",
+        "link": "https://hh.ru/vacancy/76544925?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA"
+    },
+    {
+        "name": "Разработчик Python",
+        "link": "https://hh.ru/vacancy/77091465?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+        "salary": {
+            "from": 200000,
+            "to": 250000,
+            "currency": "руб."
+        },
+        "employer": "ООО Нетопия",
+        "place": "Москва"
+    },
+    {
+        "name": "Python-разработчик (Django, DRF)",
+        "link": "https://hh.ru/vacancy/70705466?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+        "salary": {
+            "from": 60000,
+            "to": 220000,
+            "currency": "руб."
+        },
+        "employer": "ООО Фабрика Решений",
+        "place": "Москва"
+    },
+    {
+        "name": "Python Backend Developer / WEB - разработчик",
+        "link": "https://hh.ru/vacancy/72216524?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+        "salary": {
+            "from": 300000,
+            "to": 450000,
+            "currency": "руб."
+        },
+        "employer": "ООО Перфект Системс",
+        "place": "Москва"
+    },
+    {
+        "name": "Python разработчик (Middle)",
+        "link": "https://hh.ru/vacancy/76093704?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+        "salary": {
+            "from": 250000,
+            "currency": "руб."
+        },
+        "employer": "ООО 24 часа ТВ",
+        "place": "Москва, Семеновская"
+    },
+    {
+        "name": "Ведущий Python разработчик (удаленка)",
+        "link": "https://hh.ru/vacancy/76832091?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+        "salary": {
+            "to": 8000,
+            "currency": "USD"
+        },
+        "employer": "Apostro",
+        "place": "Москва"
+    },
+    {
+        "name": "Python разработчик (аккредитованная компания)",
+        "link": "https://hh.ru/vacancy/77071763?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+        "salary": {
+            "from": 270000,
+            "currency": "руб."
+        },
+        "employer": "Ассоциация IPChain",
+        "place": "Москва"
+    },
+    {
+        "name": "Разработчик Python",
+        "link": "https://hh.ru/vacancy/77234310?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+        "salary": {
+            "from": 100000,
+            "currency": "руб."
+        },
+        "employer": "ООО Универсальная Электронная Платформа",
+        "place": "Москва"
+    },
+    {
+        "name": "Разработчик C# / Python",
+        "link": "https://hh.ru/vacancy/71147348?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+        "salary": {
+            "from": 300000,
+            "to": 500000,
+            "currency": "руб."
+        },
+        "employer": "ООО Дубайт",
+        "place": "Москва, Проспект Вернадского и еще 2 "
+    },
+    {
+        "name": "Python разработчик",
+        "link": "https://hh.ru/vacancy/77032189?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+        "salary": {
+            "to": 200000,
+            "currency": "руб."
+        },
+        "employer": "ИП Мамаева Ирина Анатольевна",
+        "place": "Москва"
+    },
+    {
+        "name": "Python разработчик",
+        "link": "https://hh.ru/vacancy/77025219?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+        "salary": {
+            "from": 80000,
+            "to": 120000,
+            "currency": "руб."
+        },
+        "employer": "ООО Центр экологической безопасности гражданской авиации",
+        "place": "Москва, Авиамоторная и еще 2 "
+    },
+    {
+        "name": "Python Middle Developer",
+        "link": "https://hh.ru/vacancy/77271017?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+        "salary": {
+            "from": 100000,
+            "to": 150000,
+            "currency": "руб."
+        },
+        "employer": "RapidRenderFarm",
+        "place": "Москва"
+    },
+    {
+        "name": "Python программист (Django/Flask)",
+        "link": "https://hh.ru/vacancy/77204132?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+        "salary": {
+            "to": 180000,
+            "currency": "руб."
+        },
+        "employer": "Enjoypro",
+        "place": "Москва"
+    },
+    {
+        "name": "Junior Backend разработчик (Python, Django)",
+        "link": "https://hh.ru/vacancy/76785496?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+        "salary": {
+            "to": 120000,
+            "currency": "руб."
+        },
+        "employer": "Intelligent Analytics",
+        "place": "Москва"
+    },
+    {
+        "name": "Senior Python разработчик",
+        "link": "https://hh.ru/vacancy/77179552?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+        "salary": {
+            "from": 300000,
+            "currency": "руб."
+        },
+        "employer": "ООО 24 часа ТВ",
+        "place": "Москва, Семеновская"
+    },
+    {
+        "name": "Python разработчик",
+        "link": "https://hh.ru/vacancy/75436252?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+        "salary": {
+            "from": 100000,
+            "currency": "руб."
+        },
+        "employer": "Own Script",
+        "place": "Москва"
+    },
+    {
+        "name": "Программист Python - FastAPI",
+        "link": "https://hh.ru/vacancy/77096615?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+        "salary": {
+            "from": 180000,
+            "currency": "руб."
+        },
+        "employer": "Digital агентство Piarme",
+        "place": "Москва"
+    },
+    {
+        "name": "Python-разработчик",
+        "link": "https://hh.ru/vacancy/53864420?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA"
+    },
+    {
+        "name": "Python Backend Developer (Django)",
+        "link": "https://hh.ru/vacancy/77088738?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA"
+    },
+    {
+        "name": "Программист Python",
+        "link": "https://hh.ru/vacancy/76088946?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA"
+    },
+    {
+        "name": "Python-разработчик",
+        "link": "https://hh.ru/vacancy/77032460?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA"
+    },
+    {
+        "name": "Middle Python Backend Developer",
+        "link": "https://hh.ru/vacancy/76588590?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+        "salary": {
+            "from": 150000,
+            "to": 250000,
+            "currency": "руб."
+        },
+        "employer": "ООО Лаборатория Маркетинга",
+        "place": "Москва"
+    },
+    {
+        "name": "Python Developer (Remote)",
+        "link": "https://hh.ru/vacancy/77278703?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA"
+    },
+    {
+        "name": "Python разработчик в команду Market Intelligence",
+        "link": "https://hh.ru/vacancy/77076479?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA"
+    },
+    {
+        "name": "Разработчик на python в команду новых сервисов",
+        "link": "https://hh.ru/vacancy/75770861?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA"
+    },
+    {
+        "name": "Python-разработчик систем сбора",
+        "link": "https://hh.ru/vacancy/72687495?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+        "salary": {
+            "from": 100000,
+            "to": 150000,
+            "currency": "руб."
+        },
+        "employer": "ООО Селфсек",
+        "place": "Москва, Трубная и еще 2 "
+    },
+    {
+        "name": "Python-разработчик (команда WorkSpace)",
+        "link": "https://hh.ru/vacancy/77091209?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA"
+    },
+    {
+        "name": "Разработчик Python/Django (Middle +)",
+        "link": "https://hh.ru/vacancy/76602141?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA"
+    },
+    {
+        "name": "Python разработчик",
+        "link": "https://hh.ru/vacancy/76780632?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA"
+    },
+    {
+        "name": "Backend-разработчик (Python, Django)",
+        "link": "https://hh.ru/vacancy/77096613?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+        "salary": {
+            "from": 150000,
+            "to": 170000,
+            "currency": "руб."
+        },
+        "employer": "ООО Контент лайн",
+        "place": "Москва"
+    },
+    {
+        "name": "Python-разработчик в R&D отдел",
+        "link": "https://hh.ru/vacancy/72687478?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+        "salary": {
+            "from": 100000,
+            "to": 150000,
+            "currency": "руб."
+        },
+        "employer": "ООО Селфсек",
+        "place": "Москва, Трубная и еще 2 "
+    },
+    {
+        "name": "Python backend разработчик",
+        "link": "https://hh.ru/vacancy/77073026?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA"
+    },
+    {
+        "name": "Ментор на курс Python",
+        "link": "https://hh.ru/vacancy/77259417?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA"
+    },
+    {
+        "name": "Python developer (Банк)",
+        "link": "https://hh.ru/vacancy/77262071?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+        "salary": {
+            "to": 300000,
+            "currency": "руб."
+        },
+        "employer": "ООО АЙТИ.СПЕЙС",
+        "place": "Москва"
+    },
+    {
+        "name": "Разработчик Python (ALD)",
+        "link": "https://hh.ru/vacancy/70052938?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA"
+    },
+    {
+        "name": "Python разработчик (проект Лаборатория измерительных систем)",
+        "link": "https://hh.ru/vacancy/77193986?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA"
+    },
+    {
+        "name": "Python разработчик Middle/Senior",
+        "link": "https://hh.ru/vacancy/77214364?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA"
+    },
+    {
+        "name": "Middle BackEnd разработчик (Python)",
+        "link": "https://hh.ru/vacancy/76445416?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA"
+    },
+    {
+        "name": "Программист Python/С++",
+        "link": "https://hh.ru/vacancy/77208048?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA"
+    },
+    {
+        "name": "Junior QA Automation (Python)",
+        "link": "https://hh.ru/vacancy/76275217?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA"
+    },
+    {
+        "name": "Python-разработчик (команда Delivery&Release Management)",
+        "link": "https://hh.ru/vacancy/76731653?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA"
+    },
+    {
+        "name": "Python developer",
+        "link": "https://hh.ru/vacancy/75574711?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA"
+    },
+    {
+        "name": "С++ Developer (Python)",
+        "link": "https://hh.ru/vacancy/73030684?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+        "salary": {
+            "from": 150000,
+            "currency": "руб."
+        },
+        "employer": "ООО МКО Системы",
+        "place": "Москва, Курская"
+    },
+    {
+        "name": "Python-разработчик",
+        "link": "https://hh.ru/vacancy/75793282?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA"
+    },
+    {
+        "name": "Разработчик Python (Middle, Senior)",
+        "link": "https://hh.ru/vacancy/55088580?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA"
+    },
+    {
+        "name": "Разработчик бэкенда на Python в Вертикали",
+        "link": "https://hh.ru/vacancy/76831391?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA"
+    },
+    {
+        "name": "Главный разработчик Python",
+        "link": "https://hh.ru/vacancy/70093763?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+        "salary": {
+            "from": 100000,
+            "to": 200000,
+            "currency": "руб."
+        },
+        "employer": "АО НПФ ЭВОЛЮЦИЯ",
+        "place": "Москва, Трубная"
+    },
+    {
+        "name": "Middle backend-разработчик Python",
+        "link": "https://hh.ru/vacancy/76140465?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA"
+    },
+    {
+        "name": "Python developer (middle)",
+        "link": "https://hh.ru/vacancy/76105043?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA"
+    },
+    {
+        "name": "Junior Python Backend Developer - разработчик Python",
+        "link": "https://hh.ru/vacancy/76811711?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+        "salary": {
+            "from": 80000,
+            "to": 120000,
+            "currency": "руб."
+        },
+        "employer": "ООО Дэстэн Партнерс",
+        "place": "Москва, Выставочная"
+    },
+    {
+        "name": "Python Software Developer (AI)",
+        "link": "https://hh.ru/vacancy/76806633?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA"
+    },
+    {
+        "name": "Full-stack Python developer/Фулл-стек программист Python",
+        "link": "https://hh.ru/vacancy/76132760?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+        "salary": {
+            "from": 180000,
+            "currency": "руб."
+        },
+        "employer": "ООО Райтек",
+        "place": "Москва"
+    },
+    {
+        "name": "Python-разработчик в ML",
+        "link": "https://hh.ru/vacancy/76717976?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA"
+    },
+    {
+        "name": "Программист-разработчик Python",
+        "link": "https://hh.ru/vacancy/69900189?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA"
+    },
+    {
+        "name": "Программист Python (ML, Machine learning, PyTorch)",
+        "link": "https://hh.ru/vacancy/77023596?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA"
+    },
+    {
+        "name": "Senior Python-разработчик",
+        "link": "https://hh.ru/vacancy/77288217?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA"
+    },
+    {
+        "name": "Python Backend Developer (Senior/Remote)",
+        "link": "https://hh.ru/vacancy/77216110?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+        "salary": {
+            "to": 300000,
+            "currency": "руб."
+        },
+        "employer": "JetLend",
+        "place": "Москва"
+    },
+    {
+        "name": "Full Stack разработчик (Python и Django)",
+        "link": "https://hh.ru/vacancy/75914241?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA"
+    },
+    {
+        "name": "TechLead (Python)",
+        "link": "https://hh.ru/vacancy/72234221?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA"
+    },
+    {
+        "name": "Senior Python+Go developer",
+        "link": "https://hh.ru/vacancy/77223951?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+        "salary": {
+            "from": 300000,
+            "to": 350000,
+            "currency": "руб."
+        },
+        "employer": "Reputation House",
+        "place": "Москва"
+    },
+    {
+        "name": "Senior Python developer (FastApi + Django)",
+        "link": "https://hh.ru/vacancy/77034438?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+        "salary": {
+            "from": 200000,
+            "to": 350000,
+            "currency": "руб."
+        },
+        "employer": "ИП Галлямов Раиль Нафисович",
+        "place": "Москва"
+    },
+    {
+        "name": "Разработчик Python",
+        "link": "https://hh.ru/vacancy/76868760?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+        "salary": {
+            "to": 300000,
+            "currency": "руб."
+        },
+        "employer": "Агентство 21 век, КЦ",
+        "place": "Москва"
+    },
+    {
+        "name": "Backend разработчик Middle / Senior",
+        "link": "https://hh.ru/vacancy/76869046?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+        "salary": {
+            "from": 200000,
+            "currency": "руб."
+        },
+        "employer": "ООО БОТТО",
+        "place": "Москва"
+    },
+    {
+        "name": "Разработчик Perl",
+        "link": "https://hh.ru/vacancy/77156084?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+        "salary": {
+            "from": 200000,
+            "to": 300000,
+            "currency": "руб."
+        },
+        "employer": "ООО Нектар",
+        "place": "Москва"
+    },
+    {
+        "name": "Python Backend Developer (Senior/Remote)",
+        "link": "https://hh.ru/vacancy/77060443?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+        "salary": {
+            "to": 300000,
+            "currency": "руб."
+        },
+        "employer": "JetLend",
+        "place": "Москва"
+    },
+    {
+        "name": "Middle Backend Developer",
+        "link": "https://hh.ru/vacancy/76716623?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+        "salary": {
+            "from": 100000,
+            "to": 130000,
+            "currency": "руб."
+        },
+        "employer": "ООО Programmatic Group",
+        "place": "Москва, Дмитровская и еще 1 "
+    },
+    {
+        "name": "Разработчик Python (ETL)",
+        "link": "https://hh.ru/vacancy/77077906?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA"
+    },
+    {
+        "name": "Middle разработчик Python",
+        "link": "https://hh.ru/vacancy/75883895?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA"
+    },
+    {
+        "name": "Главный разработчик Python",
+        "link": "https://hh.ru/vacancy/77234497?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA"
+    },
+    {
+        "name": "Программист Python",
+        "link": "https://hh.ru/vacancy/76919500?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA"
+    },
+    {
+        "name": "Fullstack developer Python-JS / Фулстек-Разработчик",
+        "link": "https://hh.ru/vacancy/72731847?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA"
+    },
+    {
+        "name": "Разработчик Python, ML платформа и Explainer",
+        "link": "https://hh.ru/vacancy/77030689?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA"
+    },
+    {
+        "name": "Главный Python разработчик",
+        "link": "https://hh.ru/vacancy/77069480?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA"
+    },
+    {
+        "name": "Senior Backend Developer (Python)",
+        "link": "https://hh.ru/vacancy/76565595?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+        "salary": {
+            "to": 350000,
+            "currency": "руб."
+        },
+        "employer": "ООО Retail Rocket",
+        "place": "Москва"
+    },
+    {
+        "name": "Senior Python разработчик (Django)",
+        "link": "https://hh.ru/vacancy/77002836?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA"
+    },
+    {
+        "name": "Middle+/Senior Backend Developer (Python)",
+        "link": "https://hh.ru/vacancy/76910287?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA"
+    },
+    {
+        "name": "Senior Python разработчик (Intelligent Document Processing)",
+        "link": "https://hh.ru/vacancy/77016383?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+        "salary": {
+            "from": 200000,
+            "to": 400000,
+            "currency": "руб."
+        },
+        "employer": "Сбер. IT",
+        "place": "Москва, Кожуховская"
+    },
+    {
+        "name": "Разработчик python (Senior/Lead)",
+        "link": "https://hh.ru/vacancy/76110576?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA"
+    },
+    {
+        "name": "Python-разработчик (команда IaaS сервисы в VK Cloud)",
+        "link": "https://hh.ru/vacancy/76026102?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA"
+    },
+    {
+        "name": "Team Lead Python backend (удаленно)",
+        "link": "https://hh.ru/vacancy/76445564?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA"
+    },
+    {
+        "name": "Senior Python Developer",
+        "link": "https://hh.ru/vacancy/69345269?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+        "salary": {
+            "from": 200000,
+            "to": 250000,
+            "currency": "руб."
+        },
+        "employer": "Компэл",
+        "place": "Москва"
+    },
+    {
+        "name": "Senior Python-разработчик в Цифровые поверхности Салют (направление B2B2C)",
+        "link": "https://hh.ru/vacancy/77016351?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+        "salary": {
+            "from": 200000,
+            "to": 400000,
+            "currency": "руб."
+        },
+        "employer": "Сбер. IT",
+        "place": "Москва, Кутузовская и еще 1 "
+    },
+    {
+        "name": "Senior Python Разработчик",
+        "link": "https://hh.ru/vacancy/77126191?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA"
+    },
+    {
+        "name": "Главный python разработчик (ДПП)",
+        "link": "https://hh.ru/vacancy/76080772?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA"
+    },
+    {
+        "name": "Python-разработчик",
+        "link": "https://hh.ru/vacancy/75578822?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA"
+    },
+    {
+        "name": "Team Lead (Python)",
+        "link": "https://hh.ru/vacancy/76810563?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA"
+    },
+    {
+        "name": "Python Senior Developer (SberData)",
+        "link": "https://hh.ru/vacancy/69491556?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA"
+    },
+    {
+        "name": "Senior Python разработчик",
+        "link": "https://hh.ru/vacancy/76810518?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA"
+    },
+    {
+        "name": "Инженер-программист",
+        "link": "https://hh.ru/vacancy/76274306?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+        "salary": {
+            "from": 150000,
+            "currency": "руб."
+        },
+        "employer": "ООО Ультрафиолет",
+        "place": "Москва, Щелковская"
+    },
+    {
+        "name": "Backend Developer (Python) Middle+ / Team Lead",
+        "link": "https://hh.ru/vacancy/76889492?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+        "salary": {
+            "from": 150000,
+            "to": 300000,
+            "currency": "руб."
+        },
+        "employer": "АО СмартРейс",
+        "place": "Москва"
+    },
+    {
+        "name": "Python разработчик",
+        "link": "https://hh.ru/vacancy/76777798?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA"
+    },
+    {
+        "name": "Старший Python Developer (Django), проекты в строительной сфере",
+        "link": "https://hh.ru/vacancy/76905717?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA"
+    },
+    {
+        "name": "Senior Python Back-Еnd разработчик в Проект Блокчейна",
+        "link": "https://hh.ru/vacancy/77224114?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA"
+    },
+    {
+        "name": "Разработчик RPA",
+        "link": "https://hh.ru/vacancy/72695308?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA"
+    },
+    {
+        "name": "Python/Golang разработчик (Решения для моделирования)",
+        "link": "https://hh.ru/vacancy/76225027?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA"
+    },
+    {
+        "name": "TeamLead Python/C++",
+        "link": "https://hh.ru/vacancy/76454509?from=vacancy_search_list&query=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA"
+    }
+]
